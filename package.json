@@ -1,0 +1,12 @@
+{
+  "name": "gw_promise",
+  "version": "1.0.0",
+  "description": "Implementation of Promise/A+",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/gavinyipeiwang/gw_promise.git",
+    "type": "git"
+  },
+  "author": "= <gavinyipeiwang@gmail.com>",
+  "license": "MIT"
+}
