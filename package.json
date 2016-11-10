@@ -7,6 +7,20 @@
     "url": "https://github.com/gavinyipeiwang/gw_promise.git",
     "type": "git"
   },
+  "scripts": {
+    "start": "gulp"
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  },
   "author": "= <gavinyipeiwang@gmail.com>",
   "license": "MIT"
 }
