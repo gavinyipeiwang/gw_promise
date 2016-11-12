@@ -15,6 +15,7 @@ class Promise {
       if (value instanceof Promise) {
         return value.then(fulfill, reject)
       }
+
       //change status 
       if (self.status === self.states.pending) {
         self.status = self.states.fulfilled
