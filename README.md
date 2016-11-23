@@ -1,2 +1,2 @@
 # gw_promise
-Learn Promise/A+ by Implementation
+Learn Promise/A+ by implementing it.

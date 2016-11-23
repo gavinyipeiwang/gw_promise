@@ -1,5 +1,4 @@
 import Promise from './promise';
-
 const promise = new Promise((fulfill, reject) => {
   fulfill('done')
 });
